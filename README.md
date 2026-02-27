@@ -22,7 +22,7 @@ The dataset used in this project is `insurance.csv`, which contains information 
 
 ---
 
-## ***Analysis Goals and Objectives** 🎯
+## **Analysis Goals and Objectives** 🎯
 
 The primary objectives of this analysis were:
 
@@ -108,3 +108,4 @@ Created by Ioannis Mousouleas - https://github.com/giannis07
 ## License 📄
 
 MIT License
+
